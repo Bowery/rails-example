@@ -1,4 +1,0 @@
-== README
-
-This is an example app provided by Bowery for quick starts for rails application development.
-
