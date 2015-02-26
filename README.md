@@ -3,4 +3,4 @@
 
 This is an example app provided by Bowery for quick starts for rails application development.
 
-For an example of how to get started with this project please see the [related blog post on using Rails apps with Bowery.io](http://bowery.io/blog/posts/2014/10/24/getting-started-with-rails.html).
+For an example of how to get started with this project please see the [related blog post on using Rails apps with Bowery.io](http://bowery.io/posts/2014/10/24/getting-started-with-rails.html).
